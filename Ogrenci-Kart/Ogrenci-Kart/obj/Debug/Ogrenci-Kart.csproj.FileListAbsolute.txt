@@ -1,0 +1,11 @@
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\bin\Debug\Ogrenci-Kart.exe.config
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\bin\Debug\Ogrenci-Kart.exe
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\bin\Debug\Ogrenci-Kart.pdb
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\obj\Debug\Ogrenci-Kart.csproj.AssemblyReference.cache
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\obj\Debug\Ogrenci_Kart.Form1.resources
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\obj\Debug\Ogrenci_Kart.Properties.Resources.resources
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\obj\Debug\Ogrenci-Kart.csproj.GenerateResource.cache
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\obj\Debug\Ogrenci-Kart.csproj.CoreCompileInputs.cache
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\obj\Debug\Ogrenci-Kart.exe
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\obj\Debug\Ogrenci-Kart.pdb
+C:\Users\Sedat\Desktop\Nesne tabnalı programlama ders klasörü\Ogrenci-Kart\Ogrenci-Kart\obj\Debug\Ogrenci_Kart.Form2.resources

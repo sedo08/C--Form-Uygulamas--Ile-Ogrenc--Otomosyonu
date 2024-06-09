@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9B43CC-50B0-4E55-96CF-D182EF590027}|Ogrenci-Kart\\Ogrenci-Kart.csproj|C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\ogrenci-kart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE9B43CC-50B0-4E55-96CF-D182EF590027}|Ogrenci-Kart\\Ogrenci-Kart.csproj|solutionrelative:ogrenci-kart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9B43CC-50B0-4E55-96CF-D182EF590027}|Ogrenci-Kart\\Ogrenci-Kart.csproj|c:\\users\\sedat\\desktop\\nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\ogrenci-kart\\ogrenci-kart\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE9B43CC-50B0-4E55-96CF-D182EF590027}|Ogrenci-Kart\\Ogrenci-Kart.csproj|solutionrelative:ogrenci-kart\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9B43CC-50B0-4E55-96CF-D182EF590027}|Ogrenci-Kart\\Ogrenci-Kart.csproj|C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\ogrenci-kart\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9B43CC-50B0-4E55-96CF-D182EF590027}|Ogrenci-Kart\\Ogrenci-Kart.csproj|solutionrelative:ogrenci-kart\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9B43CC-50B0-4E55-96CF-D182EF590027}|Ogrenci-Kart\\Ogrenci-Kart.csproj|C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\ogrenci-kart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9B43CC-50B0-4E55-96CF-D182EF590027}|Ogrenci-Kart\\Ogrenci-Kart.csproj|solutionrelative:ogrenci-kart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\Ogrenci-Kart\\Form2.cs",
+              "RelativeDocumentMoniker": "Ogrenci-Kart\\Form2.cs",
+              "ToolTip": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\Ogrenci-Kart\\Form2.cs",
+              "RelativeToolTip": "Ogrenci-Kart\\Form2.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:05:38.175Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\Ogrenci-Kart\\Form1.cs",
+              "RelativeDocumentMoniker": "Ogrenci-Kart\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\Ogrenci-Kart\\Form1.cs",
+              "RelativeToolTip": "Ogrenci-Kart\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:09:23.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\Ogrenci-Kart\\Form2.cs",
+              "RelativeDocumentMoniker": "Ogrenci-Kart\\Form2.cs",
+              "ToolTip": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\Ogrenci-Kart\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ogrenci-Kart\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:46:15.891Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\Ogrenci-Kart\\Form1.cs",
+              "RelativeDocumentMoniker": "Ogrenci-Kart\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sedat\\Desktop\\Nesne tabnal\u0131 programlama ders klas\u00F6r\u00FC\\Ogrenci-Kart\\Ogrenci-Kart\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ogrenci-Kart\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T23:58:48.824Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
